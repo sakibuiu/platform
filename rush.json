@@ -2637,6 +2637,11 @@
       "packageName": "@hcengineering/model-billing",
       "projectFolder": "models/billing",
       "shouldPublish": false
+    },
+    {
+      "packageName": "@hcengineering/network",
+      "projectFolder": "packages/network",
+      "shouldPublish": false
     }
   ]
 }
